@@ -2,3 +2,8 @@ p {
     outline: 1px dotted #f0f;
     font-family: monospace;
 }
+
+code {
+    font-family: monospace;
+    font-weight: bold;
+}
